@@ -280,6 +280,8 @@ public class ConversationFragment extends Fragment {
 							} else {
 								highlightInConference(message.getCounterpart());
 							}
+						} else {
+							activity.switchToContactDetails(message.getContact());
 						}
 					}
 				});
