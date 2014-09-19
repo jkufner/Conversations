@@ -11,7 +11,7 @@ import net.java.otr4j.crypto.OtrCryptoException;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.crypto.OtrEngine;
 import eu.siacs.conversations.persistance.FileBackend;
 import eu.siacs.conversations.services.XmppConnectionService;

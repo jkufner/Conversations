@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.concurrent.RejectedExecutionException;
 
 import eu.siacs.conversations.Config;
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.entities.Account;
 import eu.siacs.conversations.entities.Contact;
 import eu.siacs.conversations.entities.Conversation;

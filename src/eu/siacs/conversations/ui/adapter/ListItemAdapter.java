@@ -2,7 +2,7 @@ package eu.siacs.conversations.ui.adapter;
 
 import java.util.List;
 
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.entities.ListItem;
 import android.content.Context;
 import android.view.LayoutInflater;

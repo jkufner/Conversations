@@ -1,6 +1,6 @@
 package eu.siacs.conversations.ui;
 
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 

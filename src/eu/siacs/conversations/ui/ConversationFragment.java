@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Set;
 
 import net.java.otr4j.session.SessionStatus;
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.crypto.PgpEngine;
 import eu.siacs.conversations.entities.Account;
 import eu.siacs.conversations.entities.Contact;

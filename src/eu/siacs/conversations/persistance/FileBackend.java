@@ -30,7 +30,7 @@ import android.util.Base64OutputStream;
 import android.util.Log;
 import android.util.LruCache;
 import eu.siacs.conversations.Config;
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.entities.Conversation;
 import eu.siacs.conversations.entities.Message;
 import eu.siacs.conversations.services.ImageProvider;

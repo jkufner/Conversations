@@ -2,7 +2,7 @@ package eu.siacs.conversations.ui.adapter;
 
 import java.util.List;
 
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.entities.Account;
 import eu.siacs.conversations.ui.XmppActivity;
 import android.content.Context;

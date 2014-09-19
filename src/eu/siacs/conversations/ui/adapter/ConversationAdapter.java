@@ -3,7 +3,7 @@ package eu.siacs.conversations.ui.adapter;
 import java.util.List;
 
 import eu.siacs.conversations.Config;
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import eu.siacs.conversations.entities.Conversation;
 import eu.siacs.conversations.entities.Message;
 import eu.siacs.conversations.ui.ConversationActivity;

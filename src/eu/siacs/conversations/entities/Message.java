@@ -1,7 +1,7 @@
 package eu.siacs.conversations.entities;
 
 import eu.siacs.conversations.Config;
-import eu.siacs.conversations.R;
+import eu.siacs.conversations_jk.R;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
